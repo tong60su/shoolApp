@@ -1,0 +1,5 @@
+git config --global user.email '605885657@qq.com'
+git config --global user.name 'tong60su'
+git commit -m '...'
+git remote add origin git@github.com:tong60su/shoolApp.git
+git push -u origin master

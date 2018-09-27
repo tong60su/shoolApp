@@ -128,10 +128,10 @@ pymysql.install_as_MySQLdb()
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',   # 数据库引擎
-        'NAME': ' studentsucess',  # 数据库名，先前创建的
-        'USER': 'root',     # 用户名，可以自己创建用户
-        'PASSWORD': 'password',  # 密码
-        'HOST': '132.232.163.230',  # mysql服务所在的主机ip
+        'NAME': 'test0924',  # 数据库名，先前创建的
+        'USER': 'sutong85',     # 用户名，可以自己创建用户
+        'PASSWORD': 'g7AZQRWMvsvHYBYYxO',  # 密码
+        'HOST': '132.232.187.109',  # mysql服务所在的主机ip
         'PORT': '3306',         # mysql服务端口
     }
 }
